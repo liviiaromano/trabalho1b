@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
+body{
+    background-color: rgb(1, 60, 109);
+    font-family: "EB aGaramond", serif;
+}
+section{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.menu ul li{
+    display: inline-block;
+    padding: 20px;
+    font-size: 20px;
+}
+.logotipo img{
+    width: 100px;
+    border-radius: 20px;
+}
+.logotipo{
+    float: left;
+}
+ .menu li a{
+ color:rgb(165, 55, 55);
+ text-decoration: none;
+ font-weight: bold;
+ }
+ .menu li a:hover{
+    color:rgb(193, 169, 11)
+ }
+ .menu{
+    padding-top: 20px;
+ }
+ .slider img{
+    width: 100%;
+    height: 400px;
+ }
+ .sobre{
+    padding: 10px 0;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(207, 123, 5);
+ }
+
+ header{
+    padding: 10px 0;
+    height: 100px;
+ }
+ .item{
+    background-color: rgb(12, 34, 53);
+    padding: 20px;
+    display: inline-block;
+    width: 300px;
+    margin: 10px 10px;
+ }
+ .descricao{
+   padding: 10px 0;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center; 
+    color: rgb(117, 117, 117);
+ }
+ a{
+    text-decoration: none;
+ }
+ footer div{
+    width: 33%;
+    display: inline-block;
+ }
+ footer iframe{
+    width: 100%!important;
+ }
+ footer{
+    background-color: rgb(208, 139, 0);
+ }
+
+ .formulario input{
+   font-size: 20px;
+   padding: 10px;
+   color: rgb(0, 0, 0);
+   font-weight: bold;
+
+    width: 45%;
+    height: 30px;
+    margin: 10px;
+ }
+ .redessociais p{
+    font-size: 45px;
+    padding: 10px;
+    color: rgb(34, 19, 3);
+ }
