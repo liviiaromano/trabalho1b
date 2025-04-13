@@ -21,7 +21,7 @@ section{
     float: left;
 }
  .menu li a{
- color:rgb(165, 55, 55);
+ color:rgb(226, 8, 8);
  text-decoration: none;
  font-weight: bold;
  }
@@ -41,6 +41,7 @@ section{
     font-weight: bold;
     text-align: center;
     color: rgb(207, 123, 5);
+    line-height: 40px;
  }
 
  header{
@@ -76,15 +77,19 @@ section{
  }
 
  .formulario input{
-   font-size: 20px;
+   font-size: 15px;
    padding: 10px;
    color: rgb(0, 0, 0);
    font-weight: bold;
-
-    width: 45%;
-    height: 30px;
-    margin: 10px;
+   text-align: center;
  }
+ h3{
+   font-size: 20px;
+   text-align: center;
+   font-weight: bold;
+   color: rgb(245, 165, 119);;
+ }
+
  .redessociais p{
     font-size: 45px;
     padding: 10px;
